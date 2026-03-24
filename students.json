@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Pranjal Rimal",
+    "age": 21,
+    "course": "Bsc. CSIT",
+    "skills": [
+      "python"
+    ]
+  },
+  {
+    "name": "Pranjal Rimal",
+    "age": 21,
+    "course": "Bsc. CSIT",
+    "skills": [
+      "python"
+    ]
+  },
+  {
+    "name": "Bhim Raj Bhandari",
+    "age": 21,
+    "course": "Computer Engineering",
+    "skills": [
+      "JAVA",
+      "AI/ML"
+    ]
+  },
+  {
+    "name": "Pranjal Rimal",
+    "age": 21,
+    "course": "Bsc. CSIT",
+    "skills": [
+      "python"
+    ]
+  }
+]
